@@ -5,6 +5,7 @@
 	<div class="footer-copyright text-center py-3">© 2018 Copyright</div>
 	<!-- Copyright -->
 </footer>
+
 <!-- Footer -->
 <script src="js/jquery-3.3.1.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
